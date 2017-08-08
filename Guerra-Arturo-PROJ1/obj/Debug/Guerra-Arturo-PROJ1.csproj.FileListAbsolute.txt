@@ -1,0 +1,36 @@
+C:\Users\Arturo_guerra\AppData\Local\Temporary Projects\Guerra-Arturo-PROJ1\bin\Debug\Guerra-Arturo-PROJ1.exe.config
+C:\Users\Arturo_guerra\AppData\Local\Temporary Projects\Guerra-Arturo-PROJ1\bin\Debug\Guerra-Arturo-PROJ1.exe
+C:\Users\Arturo_guerra\AppData\Local\Temporary Projects\Guerra-Arturo-PROJ1\bin\Debug\Guerra-Arturo-PROJ1.pdb
+C:\Users\Arturo_guerra\AppData\Local\Temporary Projects\Guerra-Arturo-PROJ1\obj\Debug\Guerra-Arturo-PROJ1.csprojResolveAssemblyReference.cache
+C:\Users\Arturo_guerra\AppData\Local\Temporary Projects\Guerra-Arturo-PROJ1\obj\Debug\Guerra_Arturo_PROJ1.VitalsForm.resources
+C:\Users\Arturo_guerra\AppData\Local\Temporary Projects\Guerra-Arturo-PROJ1\obj\Debug\Guerra_Arturo_PROJ1.Properties.Resources.resources
+C:\Users\Arturo_guerra\AppData\Local\Temporary Projects\Guerra-Arturo-PROJ1\obj\Debug\Guerra-Arturo-PROJ1.csproj.GenerateResource.Cache
+C:\Users\Arturo_guerra\AppData\Local\Temporary Projects\Guerra-Arturo-PROJ1\obj\Debug\Guerra-Arturo-PROJ1.exe
+C:\Users\Arturo_guerra\AppData\Local\Temporary Projects\Guerra-Arturo-PROJ1\obj\Debug\Guerra-Arturo-PROJ1.pdb
+P:\MIS 4321\VSprojects\Guerra-Arturo-PROJ1\Guerra-Arturo-PROJ1\bin\Debug\Guerra-Arturo-PROJ1.exe.config
+P:\MIS 4321\VSprojects\Guerra-Arturo-PROJ1\Guerra-Arturo-PROJ1\obj\Debug\Guerra-Arturo-PROJ1.exe
+P:\MIS 4321\VSprojects\Guerra-Arturo-PROJ1\Guerra-Arturo-PROJ1\obj\Debug\Guerra-Arturo-PROJ1.pdb
+P:\MIS 4321\VSprojects\Guerra-Arturo-PROJ1\Guerra-Arturo-PROJ1\bin\Debug\Guerra-Arturo-PROJ1.exe
+P:\MIS 4321\VSprojects\Guerra-Arturo-PROJ1\Guerra-Arturo-PROJ1\bin\Debug\Guerra-Arturo-PROJ1.pdb
+P:\MIS 4321\VSprojects\Guerra-Arturo-PROJ1\Guerra-Arturo-PROJ1\obj\Debug\Guerra-Arturo-PROJ1.csprojResolveAssemblyReference.cache
+P:\MIS 4321\VSprojects\Guerra-Arturo-PROJ1\Guerra-Arturo-PROJ1\obj\Debug\Guerra_Arturo_PROJ1.VitalsForm.resources
+P:\MIS 4321\VSprojects\Guerra-Arturo-PROJ1\Guerra-Arturo-PROJ1\obj\Debug\Guerra_Arturo_PROJ1.Properties.Resources.resources
+P:\MIS 4321\VSprojects\Guerra-Arturo-PROJ1\Guerra-Arturo-PROJ1\obj\Debug\Guerra-Arturo-PROJ1.csproj.GenerateResource.Cache
+C:\Users\Arturo\Documents\Guerra-Arturo-PROJ1\Guerra-Arturo-PROJ1\bin\Debug\Guerra-Arturo-PROJ1.exe.config
+C:\Users\Arturo\Documents\Guerra-Arturo-PROJ1\Guerra-Arturo-PROJ1\obj\Debug\Guerra-Arturo-PROJ1.exe
+C:\Users\Arturo\Documents\Guerra-Arturo-PROJ1\Guerra-Arturo-PROJ1\obj\Debug\Guerra-Arturo-PROJ1.pdb
+C:\Users\Arturo\Documents\Guerra-Arturo-PROJ1\Guerra-Arturo-PROJ1\bin\Debug\Guerra-Arturo-PROJ1.exe
+C:\Users\Arturo\Documents\Guerra-Arturo-PROJ1\Guerra-Arturo-PROJ1\bin\Debug\Guerra-Arturo-PROJ1.pdb
+C:\Users\Arturo\Documents\Guerra-Arturo-PROJ1\Guerra-Arturo-PROJ1\obj\Debug\Guerra-Arturo-PROJ1.csprojResolveAssemblyReference.cache
+C:\Users\Arturo\Documents\Guerra-Arturo-PROJ1\Guerra-Arturo-PROJ1\obj\Debug\Guerra_Arturo_PROJ1.VitalsForm.resources
+C:\Users\Arturo\Documents\Guerra-Arturo-PROJ1\Guerra-Arturo-PROJ1\obj\Debug\Guerra_Arturo_PROJ1.Properties.Resources.resources
+C:\Users\Arturo\Documents\Guerra-Arturo-PROJ1\Guerra-Arturo-PROJ1\obj\Debug\Guerra-Arturo-PROJ1.csproj.GenerateResource.Cache
+C:\Users\Arturo\Documents\GitHub\HealthApp\Guerra-Arturo-PROJ1\bin\Debug\Guerra-Arturo-PROJ1.exe.config
+C:\Users\Arturo\Documents\GitHub\HealthApp\Guerra-Arturo-PROJ1\obj\Debug\Guerra-Arturo-PROJ1.exe
+C:\Users\Arturo\Documents\GitHub\HealthApp\Guerra-Arturo-PROJ1\obj\Debug\Guerra-Arturo-PROJ1.pdb
+C:\Users\Arturo\Documents\GitHub\HealthApp\Guerra-Arturo-PROJ1\bin\Debug\Guerra-Arturo-PROJ1.exe
+C:\Users\Arturo\Documents\GitHub\HealthApp\Guerra-Arturo-PROJ1\bin\Debug\Guerra-Arturo-PROJ1.pdb
+C:\Users\Arturo\Documents\GitHub\HealthApp\Guerra-Arturo-PROJ1\obj\Debug\Guerra-Arturo-PROJ1.csprojResolveAssemblyReference.cache
+C:\Users\Arturo\Documents\GitHub\HealthApp\Guerra-Arturo-PROJ1\obj\Debug\Guerra_Arturo_PROJ1.VitalsForm.resources
+C:\Users\Arturo\Documents\GitHub\HealthApp\Guerra-Arturo-PROJ1\obj\Debug\Guerra_Arturo_PROJ1.Properties.Resources.resources
+C:\Users\Arturo\Documents\GitHub\HealthApp\Guerra-Arturo-PROJ1\obj\Debug\Guerra-Arturo-PROJ1.csproj.GenerateResource.Cache
